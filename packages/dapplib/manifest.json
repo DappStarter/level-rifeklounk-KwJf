@@ -1,0 +1,26 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Jared Coin",
+                "symbol": "JARED",
+                "decimals": "18",
+                "supply": "1000000"
+            }
+        },
+        {
+            "category": "file_storage",
+            "name": "core-ipfs",
+            "parameters": {
+                "mode": "single"
+            }
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "react"
+}
